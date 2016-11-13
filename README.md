@@ -14,5 +14,6 @@ Next, open a terminal window (best done on Mac, but will also work on Linux or W
     cd ~/Desktop
     
 Next Run "reccurancechecker.py" which will also run the a2-5.py files and save the correct values to use in the program automatically
+Note: Unless the files a2.py, a3,py, a4,py, and a5,py are in the same directory as recurrancechecker.py, the code will not run correctly and will throw an error at runtime.
 
     python3 reccurancechecker.py
