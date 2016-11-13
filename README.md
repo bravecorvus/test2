@@ -1,10 +1,11 @@
-# Test 2, Ch 11
+# Test 2, Question 11) c)
 
 ### By Andrew Lee
 
 
-Please download all the files
-Right above the files on the left, there is a button, "Clone or Download". Click download.
+Please download all the files Except README.md
+
+Right above the files on the left, there is a button, "Clone or Download". Click download. (Or download them individually by clicking on the blue file name, and right click Raw, under Raw, Blame, History on the top left of the page)
 
 ##How to Run
 After downloading, copy all the files into the Desktop Directory.
